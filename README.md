@@ -71,7 +71,7 @@ fastapi dev main.py
 # Or using uvicorn
 uvicorn app.main:app --reload
 ```
-View the interactive docs at: [http://127.0.0](http://127.0.0)
+View the interactive docs at: [http://127.0.0.1:8000](http://127.0.0.1:8000)
 
 ---
 
@@ -103,5 +103,5 @@ View the interactive docs at: [http://127.0.0](http://127.0.0)
 
 ## 📂 Current Progress
 - [x] Initial Project Architecture
-- [x] Database Integration (In Progress)
-- [ ] Authentication System
+- [x] Database Integration
+- [ ] Authentication System (In Progress)
