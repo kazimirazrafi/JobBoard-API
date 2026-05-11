@@ -1,0 +1,18 @@
+# --- IDEs / Editors ---
+.vscode/
+
+# --- Virtual Environments ---
+.venv/
+venv/
+env/
+
+# --- Environment Secrets ---
+.env
+.env.*
+! .env.example
+
+# --- Dependencies ---
+__pycache__/
+
+# --- Databases ---
+*.db
