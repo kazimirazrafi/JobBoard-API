@@ -103,5 +103,5 @@ View the interactive docs at: [http://127.0.0](http://127.0.0)
 
 ## 📂 Current Progress
 - [x] Initial Project Architecture
-- [ ] Database Integration (In Progress)
+- [x] Database Integration (In Progress)
 - [ ] Authentication System
